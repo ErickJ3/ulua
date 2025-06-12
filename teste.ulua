@@ -1,0 +1,10 @@
+a = 10
+b = 25
+
+a = a + 10
+
+resultado = (a * 2) + b
+
+acesso_permitido = false
+
+acesso_permitido = true
